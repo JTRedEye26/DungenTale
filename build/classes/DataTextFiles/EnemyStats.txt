@@ -1,0 +1,85 @@
+Sand Beetle
+25
+6
+8
+3
+Crabby Crustacean
+30
+8
+12
+3
+Synanceia
+35
+11
+10
+5
+The Banana Bandit
+100
+20
+26
+20
+Giant Mosquito
+55
+14
+7
+8
+Quill Pigs
+40
+18
+11
+9
+Fierce RazorBack
+70
+20
+12
+11
+The Howling Death
+150
+30
+35
+31
+Souring Terrier
+90
+25
+20
+10
+SpiderGoat
+80
+28
+18
+11
+Lurker
+85
+29
+21
+13
+Man of Stone
+200
+70
+40
+37
+Blood Suckers
+105
+37
+25
+60
+Viper
+110
+40
+30
+90
+Scolipendra Gigantea
+125
+39
+34
+69
+Colt Clan Cannibals
+250
+42
+36
+1000
+Monstrous Nightmare
+400
+50
+40
+10000
